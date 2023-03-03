@@ -3,7 +3,7 @@ Proyecto **parcialmente terminado**. Su función principal fue hacerme práctica
 El proyecto está dividido en dos partes, la primera donde esta la interfaz del cliente, y la otra del servidor propio que la aplicación tiene. 
 **¡El código ya es descargable y ejecutable para ser probado!** Aún no esta disponible de manera online, pero se puede descargar y abrir en un seridor local 
 
-![image](https://user-images.githubusercontent.com/92605825/222844154-a27172e8-5a62-4c3f-aec3-1d55cc99130f.png)
+![image](https://user-images.githubusercontent.com/92605825/222844154-a27172e8-5a62-4c3f-aec3-1d55cc99130f.png)  
 Log in para elegir un nombre.
 ![image](https://user-images.githubusercontent.com/92605825/222845543-5990aedb-23d6-460a-bc5a-f25a27096e35.png)
 Ejemplo de un chat entre tres personas. Salúd campeón.
