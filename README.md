@@ -3,4 +3,4 @@ Proyecto **parcialmente terminado**. Su función principal fue hacerme práctica
 El prpyecto está dividido en dos partes, la primera donde esta la interfaz del cliente, y la otra del servidor propio que la aplicación tiene. 
 
 
-**¡¡De momento no conseguí deployearla exitosamente, pero el código es descargable y ejecutable para ser probado!!**
+**¡¡El código ya es descargable y ejecutable para ser probado!!**
